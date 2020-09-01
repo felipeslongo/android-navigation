@@ -17,6 +17,15 @@
                             <option name="y" value="-25" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="deepLink">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>
@@ -71,6 +80,15 @@
                             <option name="y" value="282" />
                           </Point>
                         </option>
+                        <option name="myPositions">
+                          <map>
+                            <entry key="next_action">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
                       </LayoutPositions>
                     </value>
                   </entry>
@@ -81,6 +99,18 @@
                           <Point>
                             <option name="x" value="252" />
                             <option name="y" value="-27" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
+                  <entry key="shopping_cart">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-437" />
+                            <option name="y" value="280" />
                           </Point>
                         </option>
                       </LayoutPositions>

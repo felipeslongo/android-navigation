@@ -51,7 +51,6 @@ class MainActivity : AppCompatActivity() {
         // Set up Action Bar
         val navController = host.navController
 
-        // TODO STEP 9.5 - Create an AppBarConfiguration with the correct top-level destinations
         var drawerLayout : DrawerLayout? = findViewById(R.id.drawer_layout)
         appBarConfiguration = AppBarConfiguration(
                 setOf(R.id.home_dest, R.id.deeplink_dest),
